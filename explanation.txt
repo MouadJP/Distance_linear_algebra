@@ -1,0 +1,8 @@
+Created a program fo calculating distance between data vectors using manhattan and euclidean methods
+データベクトル間の距離を計算するプログラムを作成しました。マンハッタン距離とユークリッド距離の方法を使用しています。
+
+
+
+
+
+
